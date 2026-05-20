@@ -1,0 +1,24 @@
+{
+  "name": "cloudlinux-marketing-plugins",
+  "description": "Internal Cowork plugins maintained by the CloudLinux marketing team.",
+  "owner": {
+    "name": "CloudLinux Marketing",
+    "email": "lquesada-gomez@cloudlinux.com"
+  },
+  "plugins": [
+    {
+      "name": "cloudlinux-email-sequences",
+      "source": "./plugins/cloudlinux-email-sequences",
+      "description": "Build CloudLinux and Imunify360 recurring email sequences (on-demand webinar nurture, lead-gen form nurture, post-webinar SQL comms) with the team's standard cadence, tone, terminology, and quality checks.",
+      "version": "1.0.0",
+      "category": "marketing",
+      "tags": [
+        "email-sequences",
+        "nurture",
+        "cloudlinux",
+        "imunify360",
+        "hubspot"
+      ]
+    }
+  ]
+}

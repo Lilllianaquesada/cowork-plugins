@@ -1,0 +1,17 @@
+{
+  "name": "cloudlinux-email-sequences",
+  "description": "Build CloudLinux and Imunify360 recurring email sequences (on-demand webinar nurture, lead-gen form nurture, post-webinar SQL comms) with the team's standard cadence, tone, terminology, and quality checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "CloudLinux Marketing"
+  },
+  "homepage": "https://www.cloudlinux.com/",
+  "keywords": [
+    "marketing",
+    "email-sequences",
+    "cloudlinux",
+    "imunify360",
+    "nurture",
+    "hubspot"
+  ]
+}
