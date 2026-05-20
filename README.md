@@ -151,4 +151,4 @@ cowork-plugins/
 
 ## Maintainer
 
-CloudLinux Marketing — Lily Quesada-Gomez (lquesada-gomez@cloudlinux.com)
+CloudLinux Marketing — Lily Quesada-Gomez (lillianaqg@gmail.com)
